@@ -1,4 +1,3 @@
-# MLP_Credit_card_risk_prediction
 # Credit Risk Prediction using Multi-Layer Perceptron (MLP)
 
 A deep learning-based credit risk prediction system developed using a **Multi-Layer Perceptron (MLP)** to classify customers as **Good Credit** or **Bad Credit** using the **German Credit Dataset**.

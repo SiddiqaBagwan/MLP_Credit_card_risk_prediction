@@ -116,7 +116,7 @@ During training, the following were monitored:
 **72.50%**
 
 ```
-Test Accuracy: 0.7250000238418579
+Test Accuracy: **0.7250000238418579**
 ```
 
 ---

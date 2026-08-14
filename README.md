@@ -1,5 +1,6 @@
 # Credit Risk Prediction using Multi-Layer Perceptron (MLP)
 
+
 A deep learning-based credit risk prediction system developed using a **Multi-Layer Perceptron (MLP)** to classify customers as **Good Credit** or **Bad Credit** using the **German Credit Dataset**.
 
 This project demonstrates the complete deep learning pipeline including data preprocessing, feature encoding, feature scaling, model training, evaluation, and visualization of performance metrics.
